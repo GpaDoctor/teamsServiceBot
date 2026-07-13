@@ -1,1 +1,1 @@
-# teamsAiBot
+# teamsServiceBot
