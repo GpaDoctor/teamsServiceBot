@@ -1,24 +1,24 @@
 # teamsServiceBot
-#Company policy\
+# Company policy\
 Turn on wifi\
-Turn off proxy server\
+Turn off proxy server
 
-#Virtual environment\
+# Virtual environment\
 Inside project folder\
 ```
 python -m venv venv
 ```
-#Activate\
-Windows:\
+# Activate\
+Windows:
 ```
 .\venv\Scripts\Activate.ps1
 ```
-Linux\
+Linux
 ```
 source venv/bin/activate
 ```
 
-#Run installation\
+# Run installation\
 ```
 pip install
 ```
@@ -32,4 +32,4 @@ Create requirements.txt
 pip freeze > requirements.txt
 ```
 
-Install ngrok\
+Install ngrok
