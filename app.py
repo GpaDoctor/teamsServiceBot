@@ -1,3 +1,4 @@
+#deprecated
 from aiohttp import web
 from botbuilder.core import ActivityHandler, TurnContext, CardFactory, BotFrameworkAdapter, BotFrameworkAdapterSettings
 from botbuilder.schema import Activity, ActivityTypes
